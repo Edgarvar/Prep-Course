@@ -1,0 +1,9 @@
+* `for`
+Los bucles For son comúnmente utilizados para contar un cierto número de iteraciones para repetir una sentencia. 
+
+* `&&`, `||`, `!`
+Los operadores lógicos comparan booleanos y devuelvel respuestas booleanas.
+
+&& (and) evaluará ambas expresiones y devolverá verdadero si ambas ambas expresiones son verdaderas.
+|| (or) evualará que una de las expresiones sea verdadera, de ser asi devolverá verdadero, de lo contrario devolvera falso.
+! (not) devolvera el valor booleanos opuesto de la expresión.
