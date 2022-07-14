@@ -1,0 +1,30 @@
+ * Variables
+    Las Variables son un espacio en memoria donde se puede almacenar distintos tipos de datos guardando valores importantes para usarse luego.
+    Ej:
+    var nombre = "Edu";
+
+ * Strings
+    Los Strings son cadenas de caractéres que se definen entre comillas doble o simples. 
+    Ej: "¡Hola Mundo!"
+
+ * Funciones (argumentos, `return`)
+    Las funciones nos permiten modularizar nuestro código, facilitando la reutilización del código. Les podemos pasar argumentos para que trabajen con ellas y luego retornar el resultado.
+    Ej: 
+    function saludar (nombre) {
+        var saludo = "Hola " + nombre;
+        return saludo
+    }
+
+ * Declaraciones `if`
+    If se utiliza para evaluar una expresión condicional. Si se cumple una condicion va a devolver true o ejecutara un bloque de codigo. Si no cumple la condicion va a devolver false y ejecutara otra sentencia.
+
+        function puedeManejar(edad) {
+            if (edad > 18) {
+                return true;
+            }
+
+            return false;
+        }
+    
+ * Valores booleanos (`true`, `false`)
+    Los booleanos son un tipo de dato primitivo. Por definición, un booleano tiene 2 posibles valores: true (verdadero) o false (falso):
