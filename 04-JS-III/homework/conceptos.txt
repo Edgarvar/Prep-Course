@@ -1,0 +1,2 @@
+* Arrays
+    Los arrays son variables especiales que pueden almacenar una colección de tipos de datos en su interior.
