@@ -1,0 +1,11 @@
+* Objetos
+    Son una colección de propiedades con valores (keys y values). Los objetos pueden ser  declarados y modificados de manera arbitraria sin ningun tipo de orden.
+* Propiedades
+    Las propiedades de un objeto literal se definen como la unión del nombre y valor (key y value), mediante el nombre del mismo se podrá acceder a las propiedades del objeto.
+* Métodos
+    Los métodos son funciones que están asociados al objeto. Estas funciones son asignadas como propiedad del objeto y es definida al igual que una función normal. Para tener acceso a un método de un objeto, se debe utilizar el nombre de objeto, seguido por el nombre de la propiedad (key) que es el nombre de la función.
+* Bucle `for…in`
+    Es una alternativa del bucle for, para recorridos a propiedades de objetos en JS.
+* Notación de puntos vs notación de corchetes
+    Son métodos para acceder a las propiedades de un objetos.
+    La notación de corchetes es más dinámica.
